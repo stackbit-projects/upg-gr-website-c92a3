@@ -2,7 +2,7 @@
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
         "title": "UPGRADE",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Features",
